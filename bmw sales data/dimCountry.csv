@@ -1,0 +1,24 @@
+Region,Country,CountryID,Flag
+Africa,Egypt,1,https://i.ibb.co/qg3Wn1Z/eg.png
+Africa,Kenya,2,https://i.ibb.co/sq5LCYS/ke.png
+Africa,Morocco,3,https://i.ibb.co/VYkFd00/ly.png
+Africa,Nigeria,4,https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Flag_of_Nigeria.svg/640px-Flag_of_Nigeria.svg.png
+Africa,South Africa,5,https://i.ibb.co/L13nBLV/za.png
+Asia,China,6,https://i.ibb.co/rtzTqdL/cn.png
+Asia,India,7,https://i.ibb.co/FWwkkSr/in.png
+Asia,Japan,8,https://i.ibb.co/ypYv00C/jp.png
+Asia,South Korea,9,https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/640px-Flag_of_South_Korea.svg.png
+Asia,Thailand,10,https://i.ibb.co/WGDFQvq/th.png
+Europe,France,11,https://i.ibb.co/SsDggKk/fr.png
+Europe,Germany,12,https://i.ibb.co/GdBsDSN/de.png
+Europe,Italy,13,https://i.ibb.co/gvcbhqT/it.png
+Europe,Spain,14,https://i.ibb.co/5rxBYYm/es.png
+Europe,United Kingdom,15,https://i.ibb.co/tbMNKvt/gb.png
+North America,Canada,16,https://i.ibb.co/V20HTNv/ca.png
+North America,Mexico,17,https://i.ibb.co/G3tLs9Y/mx.png
+North America,United States,18,https://i.ibb.co/dWvX5nM/um.png
+South America,Argentina,19,https://i.ibb.co/7br3tBg/ar.png
+South America,Brazil,20,https://i.ibb.co/SR5Md2g/br.png
+South America,Chile,21,https://i.ibb.co/BCdpr3v/cl.png
+South America,Colombia,22,https://i.ibb.co/1TMcQyD/co.png
+South America,Peru,23,https://i.ibb.co/x8KN9nk/pe.png
